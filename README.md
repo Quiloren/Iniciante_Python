@@ -11,4 +11,5 @@ Projeto Gerenciador de carrinho de compras
 peguei a ideia de um video do tiktok 
 ele dizia exatamente o que ele queria ai eu peguei e me esforcei para fazer
 o programa funciona e pra mim isso que importa no momento se tiver algum erro eu conserto futuramente 
-![WhatsApp Image 2025-09-03 at 04 24 15](https://github.com/user-attachments/assets/940611f2-2801-4555-856a-1f3616a176dd)
+![WhatsApp Image 2025-09-03 at 04 24 15](https://github.com/user-attachments/assets/b1089fd8-e234-4cc4-b071-65fc6b2f17a4)
+
