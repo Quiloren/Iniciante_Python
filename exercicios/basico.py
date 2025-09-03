@@ -4,5 +4,6 @@ def nome():
 
 def numero():
     numero = int(input("digite um numero: "))
-    return numero
+    numero2 = int(input("digite outro numero: "))
+    return numero, numero2 
 
