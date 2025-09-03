@@ -32,4 +32,6 @@ while True:
         print(f"\nTotal deu: {soma:.2f}$")
     elif escolha == 0:
         break
+    else:
+        print("Opção invalida!")
 
