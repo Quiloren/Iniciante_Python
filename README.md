@@ -14,7 +14,7 @@ Projeto Gerenciador de carrinho de compras
 
 peguei a ideia de um video do tiktok 
 
-ele dizia exatamente o que ele queria ai eu peguei e me esforcei para fazer
+ele descreve exatamente o que tem que ser feito porém sem a resposta direta, então fui lá e me esforcei para fazer
 
 o programa funciona e pra mim isso que importa no momento se tiver algum erro eu conserto futuramente 
 
